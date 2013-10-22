@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.audio.rdio" name="Rdio" version="0.0.1" provider-name="Rockhopper.dk">
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>linux</platform>
+    <summary lang="en">Launch Rdio website using chromium</summary>
+    <language></language>
+    <description lang="en">Launch Rdio website using chromium</description>
+    <website>https://github.com/henrik-farre/xbmc-addons</website>
+    <email>henrik@rockhopper.dk</email>
+  </extension>
+</addon>
